@@ -1,0 +1,140 @@
+2023-01-24 22:00:39,282 - enam -INFO - URL is opened
+2023-01-24 22:00:39,859 - enam -INFO - Enterd username
+2023-01-24 22:00:40,656 - enam -INFO - Entered Password
+2023-01-24 22:00:42,415 - enam -INFO - Test case passed
+2023-01-24 22:03:52,453 - enam -INFO - URL is opened
+2023-01-24 22:03:53,032 - enam -INFO - Enterd username
+2023-01-24 22:03:54,167 - enam -INFO - Entered Password
+2023-01-24 22:04:59,313 - enam -INFO - URL is opened
+2023-01-24 22:04:59,589 - enam -INFO - Enterd username
+2023-01-24 22:04:59,805 - enam -INFO - Entered Password
+2023-01-24 22:05:02,800 - enam -INFO - Test case failed
+2023-01-25 21:52:29,273 - enam -INFO - URL is opened
+2023-01-25 21:52:29,925 - enam -INFO - Enterd username
+2023-01-25 21:52:30,480 - enam -INFO - Entered Password
+2023-01-25 21:52:32,228 - enam -INFO - Test case passed
+2023-01-25 21:52:33,701 - enam -INFO - URL is opened
+2023-01-25 21:52:34,200 - enam -INFO - Enterd username
+2023-01-25 21:52:34,347 - enam -INFO - Entered Password
+2023-01-25 21:52:37,841 - enam -INFO - URL is opened
+2023-01-25 21:52:38,395 - enam -INFO - Enterd username
+2023-01-25 21:52:38,521 - enam -INFO - Entered Password
+2023-01-25 21:52:42,695 - enam -INFO - URL is opened
+2023-01-25 21:52:43,119 - enam -INFO - Enterd username
+2023-01-25 21:52:43,239 - enam -INFO - Entered Password
+2023-01-25 21:55:14,043 - enam -INFO - URL is opened
+2023-01-25 21:55:14,355 - enam -INFO - Enterd username
+2023-01-25 21:55:14,961 - enam -INFO - Entered Password
+2023-01-25 21:55:17,454 - enam -INFO - Test case passed
+2023-01-25 21:55:19,169 - enam -INFO - URL is opened
+2023-01-25 21:55:19,283 - enam -INFO - Enterd username
+2023-01-25 21:55:19,617 - enam -INFO - Entered Password
+2023-01-25 21:55:23,235 - enam -INFO - URL is opened
+2023-01-25 21:55:23,610 - enam -INFO - Enterd username
+2023-01-25 21:55:23,720 - enam -INFO - Entered Password
+2023-01-25 21:55:27,267 - enam -INFO - URL is opened
+2023-01-25 21:55:27,745 - enam -INFO - Enterd username
+2023-01-25 21:55:27,860 - enam -INFO - Entered Password
+2023-01-25 21:58:05,588 - enam -INFO - URL is opened
+2023-01-25 21:58:05,923 - enam -INFO - Enterd username
+2023-01-25 21:58:06,493 - enam -INFO - Entered Password
+2023-01-25 21:58:10,003 - enam -INFO - Test case passed
+2023-01-25 21:58:12,261 - enam -INFO - URL is opened
+2023-01-25 21:58:12,401 - enam -INFO - Enterd username
+2023-01-25 21:58:12,766 - enam -INFO - Entered Password
+2023-01-25 21:58:18,400 - enam -INFO - URL is opened
+2023-01-25 21:58:18,779 - enam -INFO - Enterd username
+2023-01-25 21:58:18,890 - enam -INFO - Entered Password
+2023-01-25 21:58:23,786 - enam -INFO - URL is opened
+2023-01-25 21:58:23,905 - enam -INFO - Enterd username
+2023-01-25 21:58:24,303 - enam -INFO - Entered Password
+2023-01-26 20:20:02,849 - enam -INFO - URL is opened
+2023-01-26 20:20:03,478 - enam -INFO - Enterd username
+2023-01-26 20:20:03,777 - enam -INFO - Entered Password
+2023-01-26 20:20:15,727 - enam -INFO - Login passed
+2023-01-26 20:20:37,571 - enam -INFO - URL is opened
+2023-01-26 20:20:37,775 - enam -INFO - Enterd username
+2023-01-26 20:20:38,514 - enam -INFO - Entered Password
+2023-01-26 20:20:49,411 - enam -WARN - Login failed
+2023-01-26 20:20:53,122 - enam -INFO - URL is opened
+2023-01-26 20:20:53,329 - enam -INFO - Enterd username
+2023-01-26 20:20:53,915 - enam -INFO - Entered Password
+2023-01-26 20:21:04,955 - enam -WARN - Login failed
+2023-01-26 20:21:09,605 - enam -INFO - URL is opened
+2023-01-26 20:21:09,806 - enam -INFO - Enterd username
+2023-01-26 20:21:10,025 - enam -INFO - Entered Password
+2023-01-26 20:21:19,519 - enam -WARN - Login failed
+2023-01-26 20:41:52,386 - enam -INFO - URL is opened
+2023-01-26 20:41:53,022 - enam -INFO - Enterd username
+2023-01-26 20:41:53,406 - enam -INFO - Entered Password
+2023-01-26 20:42:00,297 - enam -INFO - Login passed
+2023-01-26 20:42:25,246 - enam -INFO - URL is opened
+2023-01-26 20:42:25,456 - enam -INFO - Enterd username
+2023-01-26 20:42:26,147 - enam -INFO - Entered Password
+2023-01-26 20:42:39,919 - enam -WARN - Login failed
+2023-01-26 20:42:46,178 - enam -INFO - URL is opened
+2023-01-26 20:42:46,421 - enam -INFO - Enterd username
+2023-01-26 20:42:47,160 - enam -INFO - Entered Password
+2023-01-26 20:42:57,182 - enam -WARN - Login failed
+2023-01-26 20:43:01,712 - enam -INFO - URL is opened
+2023-01-26 20:43:01,886 - enam -INFO - Enterd username
+2023-01-26 20:43:02,498 - enam -INFO - Entered Password
+2023-01-26 20:43:12,439 - enam -WARN - Login failed
+2023-01-29 20:44:31,405 - enam -INFO - URL is opened
+2023-01-29 20:44:31,768 - enam -INFO - Enterd username
+2023-01-29 20:44:32,021 - enam -INFO - Entered Password
+2023-01-29 20:44:35,552 - enam -INFO - Test case passed
+2023-01-29 20:46:08,932 - enam -INFO - User name is provided
+2023-01-29 20:46:09,099 - enam -INFO - Passsword is provided
+2023-01-29 20:46:16,040 - enam -INFO - providing customer details....
+2023-01-29 20:49:31,422 - enam -INFO - User name is provided
+2023-01-29 20:49:31,599 - enam -INFO - Passsword is provided
+2023-01-29 20:49:39,882 - enam -INFO - providing customer details....
+2023-01-31 18:27:45,511 - enam -INFO - User name is provided
+2023-01-31 18:27:46,182 - enam -INFO - Passsword is provided
+2023-01-31 18:27:53,134 - enam -INFO - providing customer details....
+2023-01-31 18:31:44,602 - enam -INFO - User name is provided
+2023-01-31 18:31:44,818 - enam -INFO - Passsword is provided
+2023-01-31 18:31:49,619 - enam -INFO - providing customer details....
+2023-01-31 20:18:27,883 - enam -INFO - URL is opened
+2023-01-31 20:18:28,692 - enam -INFO - Enterd username
+2023-01-31 20:18:28,866 - enam -INFO - Entered Password
+2023-01-31 20:18:31,662 - enam -INFO - Test case passed
+2023-01-31 20:38:51,513 - enam -INFO - URL is opened
+2023-01-31 20:38:51,871 - enam -INFO - Enterd username
+2023-01-31 20:38:52,061 - enam -INFO - Entered Password
+2023-01-31 20:38:55,455 - enam -INFO - Test case passed
+2023-01-31 20:41:55,888 - enam -INFO - URL is opened
+2023-01-31 20:41:56,144 - enam -INFO - Enterd username
+2023-01-31 20:41:56,635 - enam -INFO - Entered Password
+2023-01-31 20:41:59,097 - enam -INFO - Test case passed
+2023-01-31 20:45:38,668 - enam -INFO - URL is opened
+2023-01-31 20:45:39,224 - enam -INFO - Enterd username
+2023-01-31 20:45:39,465 - enam -INFO - Entered Password
+2023-01-31 20:45:43,126 - enam -INFO - Test case passed
+2023-01-31 20:46:15,582 - enam -INFO - URL is opened
+2023-01-31 20:46:15,821 - enam -INFO - Enterd username
+2023-01-31 20:46:15,995 - enam -INFO - Entered Password
+2023-01-31 20:46:19,614 - enam -INFO - Test case passed
+2023-02-01 21:13:37,804 - enam -INFO - URL is opened
+2023-02-01 21:13:38,687 - enam -INFO - Enterd username
+2023-02-01 21:13:38,890 - enam -INFO - Entered Password
+2023-02-01 21:16:23,910 - enam -INFO - URL is opened
+2023-02-01 21:16:32,749 - enam -INFO - Enterd username
+2023-02-01 21:17:34,681 - enam -INFO - URL is opened
+2023-02-03 08:53:43,465 - enam -INFO - URL is opened
+2023-02-03 08:53:44,545 - enam -INFO - Enterd username
+2023-02-03 08:53:44,803 - enam -INFO - Entered Password
+2023-02-03 08:53:46,548 - enam -INFO - Test case passed
+2023-02-03 10:47:21,355 - enam -INFO - URL is opened
+2023-02-03 10:47:21,880 - enam -INFO - Enterd username
+2023-02-03 10:47:31,245 - enam -INFO - Entered Password
+2023-02-03 10:47:33,334 - enam -INFO - Test case passed
+2023-02-03 10:55:42,070 - enam -INFO - URL is opened
+2023-02-03 10:55:42,421 - enam -INFO - Enterd username
+2023-02-03 10:55:42,592 - enam -INFO - Entered Password
+2023-02-03 10:55:45,940 - enam -INFO - Test case passed
+2023-02-04 10:43:24,145 - enam -INFO - URL is opened
+2023-02-04 10:43:28,543 - enam -INFO - Enterd username
+2023-02-04 10:43:28,823 - enam -INFO - Entered Password
+2023-02-04 10:43:37,281 - enam -INFO - Test case passed

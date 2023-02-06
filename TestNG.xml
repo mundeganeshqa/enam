@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="enam">
+	
+	<!-- <listeners>
+	<listener class-name="com.bikkadit.enam.util.Reporting"/>
+	</listeners> -->
+		
+	<test name="loginTest">		
+		<parameter name="browser" value="chrome"/>
+		<classes>
+				<class name="com.bikkadit.enam.testCases.TestLoginpage"/>						
+		</classes>
+	</test>
+</suite>

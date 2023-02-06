@@ -1,0 +1,9 @@
+com\bikkadit\enam\testCases\TestRegistration.class
+com\bikkadit\enam\util\ReadConfig.class
+com\bikkadit\enam\testCases\BaseClass.class
+com\bikkadit\enam\testCases\TestLoginpage.class
+com\bikkadit\enam\testCases\TestLoginPageDDT.class
+com\bikkadit\enam\util\XLUtils.class
+com\bikkadit\enam\pageObject\LoginPage.class
+com\bikkadit\enam\util\Reporting.class
+com\bikkadit\enam\pageObject\Registration.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [enam]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="loginTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.bikkadit.enam.testCases.TestRegistration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="addNewCustomer"/>
+        </methods>
+      </class> <!-- com.bikkadit.enam.testCases.TestRegistration -->
+    </classes>
+  </test> <!-- loginTest(failed) -->
+</suite> <!-- Failed suite [enam] -->
